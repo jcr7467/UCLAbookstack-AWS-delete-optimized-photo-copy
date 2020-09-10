@@ -1,0 +1,1 @@
+# UCLAbookstack-AWS-delete-optimized-photo-copy
